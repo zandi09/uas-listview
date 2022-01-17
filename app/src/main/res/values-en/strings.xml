@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="anjing">dog</string>
+    <string name="kucing">cut</string>
+    <string name="buaya">crocodile</string>
+    <string name="app_name">Cats, Dogs &amp; Pedia Crocodile</string>
+    <string name="daftar">Animal Race List</string>
+    <string name="jenis"><![CDATA[Cat, Dog & Crocodile Pedia]]></string>
+    <string name="macam">(Select image to open gallery)</string>
+    <string name="ujung">Kintamani</string>
+    <string name="apek">Originally from Ankara, Turkey with the characteristic of long and soft hair</string>
+    <string name="udin">Benga</string>
+    <string name="peak">Is the result of a cross between an Asian Leopard Cat and a British domestic cat</string>
+    <string name="upin">It is said that originally a cat breed that used to accompany the monks who settled in temples in Burma</string>
+    <string name="ipin">Angora</string>
+    <string name="roy">" Persian"</string>
+    <string name="meme">A long-haired cat with a round face and a snub nose. Originally from Iran then imported to Italy</string>
+    <string name="isan">Siam</string>
+    <string name="mx">A cat derived from the Wichian Maat (Thai cat) with a characteristic long and slender body, oval face, wide ears, and bluish eyes</string>
+    <string name="perza">" Siberia"</string>
+    <string name="f1">\"Russian domestic cat with thick fur and a large body but very agile and famous for its jumping ability \"</string>
+    <string name="ok">" Birmani"</string>
+    <string name="ret">" Turkey"</string>
+    <string name="uk">english</string>
+    <string name="nm">" Burma/Myanmar"</string>
+    <string name="mn">iran</string>
+    <string name="cg">thailand</string>
+    <string name="cv">rusian</string>
+    <string name="ui">Bulldog</string>
+    <string name="as">" English"</string>
+    <string name="sa">A popular dog known for its chubby, muscular body, wrinkled face, and snub nose</string>
+    <string name="zs">Scat</string>
+    <string name="xz">\"Alaska,Siberia,Finland (snow area)\"</string>
+    <string name="cz">A special breed of dog originally used to pull sleighs</string>
+    <string name="zx">Kintamani</string>
+    <string name="zd">Indonesia</string>
+    <string name="vb">\"Bali dog breeds\"</string>
+    <string name="cb">Samoyed</string>
+    <string name="bn">Russia</string>
+    <string name="ad">Dogs originating from Siberia that were originally used to guard livestock by the Samoyed . tribe</string>
+    <string name="sd">Shepherd</string>
+    <string name="ce">German</string>
+    <string name="aw">Smart and strong dog, now widely used as guard dog, bodyguard, and police dog (K9)</string>
+    <string name="qw">Shiba</string>
+    <string name="df">Japan</string>
+    <string name="gf">\"This dog from the Shiba area is agile and agile so it was originally used a lot for hunting \"</string>
+    <string name="xb">Siam</string>
+    <string name="fg">Thailand</string>
+    <string name="nb">The size is also quite small when compared to other types of crocodiles.</string>
+    <string name="kl">World</string>
+    <string name="fh">estuary</string>
+    <string name="az">It can reach 7 to 8 meters in length. Meanwhile, its weight can reach 200 kg.</string>
+    <string name="qe">Irian</string>
+    <string name="fj">papua</string>
+    <string name="kh">Its physical appearance is similar to that of an estuarine crocodile. However, the irian crocodile has a smaller size and darker skin color.</string>
+    <string name="cn">Gavial</string>
+    <string name="wt">India</string>
+    <string name="ty">This crocodile is recognized by its long and thin snout.</string>
+    <string name="hj">list of various races</string>
+    <string name="snji">dog</string>
+    <string name="yts">crorofile</string>
+
+
+</resources>
